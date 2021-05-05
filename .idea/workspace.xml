@@ -23,100 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="054bc2e5-aa40-4828-8230-0c6565ccd142" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/atguigu/springcloud/ConfigCenterMain3344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/GateWayMain9527.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/config/GateWayConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/filter/MyLogGatewayFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/atguigu/springcloud/entites/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/atguigu/springcloud/entites/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/atguigu/springcloud/entites/CommonResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/atguigu/springcloud/entites/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/atguigu/springcloud/OrderHystrixMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/atguigu/springcloud/controller/PaymentHystrixController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/atguigu/springcloud/service/PaymentFallbackService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/atguigu/springcloud/service/PaymentFeignClientService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboadr9001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboadr9001/target/classes/com/atguigu/springcloud/HystrixDashboardMain9001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/atguigu/springcloud/OrderConsulMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/atguigu/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/atguigu/springcloud/controller/OrderConsulController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/atguigu/springcloud/OrderZKMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/atguigu/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/atguigu/springcloud/controller/OrderZKController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/atguigu/springcloud/EurekaMain7001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/atguigu/springcloud/EurekaMain7002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/PaymentHystrixMain8001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/service/PaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/PaymentMain8001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/dao/PaymentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/service/PaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/PaymentMain8002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/dao/PaymentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/service/PaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/atguigu/springcloud/PaymentMain8003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/atguigu/springcloud/dao/PaymentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/atguigu/springcloud/service/PaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/atguigu/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/com/atguigu/springcloud/PaymentMain8004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/com/atguigu/springcloud/PaymentMain8006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/ConfigClientMain3355.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,6 +58,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -203,7 +116,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigCenterMain3344">
+  <component name="RunManager" selected="Spring Boot.ConfigClientMain3355">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -222,6 +135,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-config-client-3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7001" />
@@ -229,14 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7002" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -352,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigClientMain3355" />
         <item itemvalue="Spring Boot.GateWayMain9527" />
         <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
         <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
         <item itemvalue="Spring Boot.OrderHystrixMain80" />
-        <item itemvalue="Spring Boot.EurekaMain7002" />
       </list>
     </recent_temporary>
   </component>
@@ -399,5 +319,43 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1002" height="370" key="GridCell.Tab.0.bottom" timestamp="1620234784330">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1620234784330" />
+    <state width="1002" height="370" key="GridCell.Tab.0.center" timestamp="1620234784322">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1620234784322" />
+    <state width="1002" height="370" key="GridCell.Tab.0.left" timestamp="1620234784322">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1620234784322" />
+    <state width="1002" height="370" key="GridCell.Tab.0.right" timestamp="1620234784323">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1620234784323" />
+    <state width="1002" height="370" key="GridCell.Tab.1.bottom" timestamp="1620234784337">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1620234784337" />
+    <state width="1002" height="370" key="GridCell.Tab.1.center" timestamp="1620234784333">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1620234784333" />
+    <state width="1002" height="370" key="GridCell.Tab.1.left" timestamp="1620234784332">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1620234784332" />
+    <state width="1002" height="370" key="GridCell.Tab.1.right" timestamp="1620234784334">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1620234784334" />
+    <state x="176" y="161" key="new project wizard" timestamp="1620231854006">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="176" y="161" key="new project wizard/0.23.1440.812@0.23.1440.812" timestamp="1620231854006" />
   </component>
 </project>
