@@ -23,7 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="054bc2e5-aa40-4828-8230-0c6565ccd142" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/ConfigClientMain3355.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/atguigu/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+>>>>>>> 04736da004325a655124ea9f493ebd59ac04e441
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +62,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -109,7 +120,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigCenterMain3344">
+  <component name="RunManager" selected="Spring Boot.ConfigClientMain3355">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -128,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-config-client-3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7001" />
@@ -135,14 +159,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7002" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -258,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigClientMain3355" />
         <item itemvalue="Spring Boot.GateWayMain9527" />
         <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
         <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
         <item itemvalue="Spring Boot.OrderHystrixMain80" />
-        <item itemvalue="Spring Boot.EurekaMain7002" />
       </list>
     </recent_temporary>
   </component>
@@ -305,5 +323,43 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1002" height="370" key="GridCell.Tab.0.bottom" timestamp="1620234784330">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1620234784330" />
+    <state width="1002" height="370" key="GridCell.Tab.0.center" timestamp="1620234784322">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1620234784322" />
+    <state width="1002" height="370" key="GridCell.Tab.0.left" timestamp="1620234784322">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1620234784322" />
+    <state width="1002" height="370" key="GridCell.Tab.0.right" timestamp="1620234784323">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1620234784323" />
+    <state width="1002" height="370" key="GridCell.Tab.1.bottom" timestamp="1620234784337">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1620234784337" />
+    <state width="1002" height="370" key="GridCell.Tab.1.center" timestamp="1620234784333">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1620234784333" />
+    <state width="1002" height="370" key="GridCell.Tab.1.left" timestamp="1620234784332">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1620234784332" />
+    <state width="1002" height="370" key="GridCell.Tab.1.right" timestamp="1620234784334">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1002" height="370" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1620234784334" />
+    <state x="176" y="161" key="new project wizard" timestamp="1620231854006">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="176" y="161" key="new project wizard/0.23.1440.812@0.23.1440.812" timestamp="1620231854006" />
   </component>
 </project>
